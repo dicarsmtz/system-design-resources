@@ -58,6 +58,7 @@
 
 ### Cloud Architecture
 - **[Cloud Architecture Patterns](https://www.amazon.com/Cloud-Architecture-Patterns-Using-Microsoft/dp/1449319777/ref=sr_1_3?crid=1J7MJMW5HJJDG&dib=eyJ2IjoiMSJ9.KBaRJODBo16mGyKnQPpFJOJBMgSI-e1LaMbLCT9nWhraZLHNuqj0UL9K2gKHGvLFCbeetSsFFiQlvDBjYrjbz6uJGvcilUSbEwHT0FcIl5ajpCZJ55zjVWAHltPB_Rw9OEirZPe5QAdhz9x4eRObo7PhLYxckxSoAiPrN7n1UZ4uU3z2iAjeLKDX5uAZVDIpt_KGYuDNdBaR45hcD4g8RHDmNavlZFZlovBiKj901ag.QJL2cRnM2wpNWUPxMx8Evon-Y8faviS-dwEabF_3rgE&dib_tag=se&keywords=Cloud+Architecture+Patterns&qid=1749863772&s=books&sprefix=cloud+architecture+patterns%2Cstripbooks%2C324&sr=1-3)** - Cloud-native design patterns, auto-scaling, distributed computing, and cloud service integration patterns.
+- **[AWS Architecture](https://aws.amazon.com/architecture/)**
 
 **Focus Areas:**
 - Observability and monitoring
