@@ -81,6 +81,10 @@
 - **[Database Internals](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347/ref=sr_1_1?crid=1VE8VQQQW7L0&dib=eyJ2IjoiMSJ9.c4QK-TVD1D8O9VjKP1lMdsgNQIyEkGEx3VEJ6SeUehcHWx7hksFGuRVF4vNzrg1z8fCVmcK1i-8lGTQrqN9_cMoMFVPk6LtFOmB6PhsUzS4r6BlGgjx1kvRH0PshKMngQ--88P0j-vK2OKAv_HK70bwxORStr52TrzHKeZ9fOS8vF40bBDbOPWlE9zabO1LBuPMvNiK0Q7ocV8xjDzqnIr3N-hW_QmakhjZR9jMFe50.TnVa9HMblKvRRpVfdhCLYh_E4rz-d6npkGwJgV24DmU&dib_tag=se&keywords=database+internals&qid=1749864383&s=books&sprefix=database+internal%2Cstripbooks%2C153&sr=1-1)** - Deep dive into how databases work internally. Storage engines, indexing, transaction processing, and distributed database systems.
 - **[Distributed Systems: Principles and Paradigms](https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/153028175X)** - Covers the principles, advanced concepts, and technologies of distributed systems in detail, including: communication, replication, fault tolerance, and security
 
+### Observability
+- **[Observability Engineering
+](https://www.oreilly.com/library/view/observability-engineering/9781492076438/)**
+
 **Focus Areas:**
 - Architecture decision records (ADRs)
 - System evolution and migration strategies
