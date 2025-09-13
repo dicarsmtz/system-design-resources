@@ -32,7 +32,7 @@
 - **[SOA Principles of Service Design](https://www.amazon.com/SOA-Principles-Service-Design-Prentice/dp/0132344823)** – The definitive guide to service orientation. Learn foundational principles like autonomy, statelessness, discoverability, and composability. Pairs well with DDD and provides the philosophical grounding behind modular service boundaries.
 
 
-- **[Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Addison-Wesley-ebook/dp/B008OHVDFM/ref=sr_1_1?crid=3GWYF9RPNUJOF&dib=eyJ2IjoiMSJ9.9-3BHZDx8N-YUVvTk2Y0IZWsmpLm2RiSFY5z4r6kU7P0OwDzVmOH26Y5XcVF3H7WNxWBupu-TICpTm58KGWFTZ9VTmmVc-0rkix0nhT5Fv748DkYR4wqeQ-svUEJMWk9LRagO1X7_7RMA8AzlsEBFTvWybxMqTU6rgQdOs7Nx_6ak0ZMzhiHksRI-JvuRapdqIesh33NY07fv_p-uMhZ4Pl0gl6ViHbdsdA5gjVq1Lc.i132KqWHcHMiJ_HZMoG68bEyqaOnflbEvv1wbSpYpWQ&dib_tag=se&keywords=Patterns+of+Enterprise+Application+Architecture&qid=1749863456&s=digital-text&sprefix=patterns+of+enterprise+application+architecture%2Cdigital-text%2C131&sr=1-1)** - Martin Fowler's classic. Learn fundamental patterns like Repository, Unit of Work, Data Mapper, and Transaction Script.
+- **[Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Addison-Wesley-ebook/dp/B008OHVDFM/ref=sr_1_1?crid=3GWYF9RPNUJOF&dib=eyJ2IjoiMSJ9.9-3BHZDx8N-YUVvTk2Y0IZWsmpLm2RiSFY5z4r6kU7P0OwDzVmOH26Y5XcVF3H7WNxWBupu-TICpTm58KGWFTZ9VTmmVc-0rkix0nhT5Fv748DkYR4wqeQ-svUEJMWk9LRagO1X7_7RMA8AzlsEBFTvWybxMqTU6rgQdOs7Nx_6ak0ZMzhiHksRI-JvuRapdqIesh33NY07fv_p-uMhZ4Pl0gl6ViHbdsdA5gjVq1Lc.i132KqWHcHMiJ_HZMoG68bEyqaOnflbEvv1wbSpYpWQ&dib_tag=se&keywords=Patterns+of+Enterprise+Application+Architecture&qid=1749863456&s=digital-text&sprefix=patterns+of+enterprise+application+architecture%2Cdigital-text%2C131&sr=1-1)** - Martin Fowler's classic. Learn fundamental patterns like Repository, Unit of Work, Data Mapper, and Transaction Script. (SF)
 
 ### Microservices Architecture
 - **[Building Microservices](https://www.oreilly.com/library/view/building-microservices-2nd/9781492034018/)** - Comprehensive guide to microservices architecture, service decomposition, communication patterns, and distributed data management.
@@ -54,7 +54,7 @@
 - **[Release it!](https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B?ref_=ast_author_dp&th=1&psc=1)** - Critical patterns for building resilient systems. Circuit breakers, bulkheads, timeouts, and other stability patterns.
 
 ### Enterprise Scale Architecture
-- **[Art of Scalability](https://www.amazon.com/Art-Scalability-Architecture-Organizations-Enterprise/dp/0134032802/ref=sr_1_1?crid=10L65QPRYRN3E&dib=eyJ2IjoiMSJ9.WockfrR8Ugztnoeyq3SosKe4j78Y9Bf7WzHDBQyuYz6pgkkc-HJe0ygo37imuDMljXYV2l7S3O3FfFz6e-Vnf0GbreJQTBTrrRQniZFoON-TmY8YugufZF5kdzRp-br6m1DJYKsfdQtuCVUfebvJ3I0mqDFlGBWjO0HvcyD7bWSgkLB964_nphQUckj6isPJdPLaibAuaFW4KguIG1J27u7sxVIrhUfMnGDi0XkitUg.Y3vm7ZrUBk7mszMQpjtHDEkT-lWCVznfKNDrNo6fR_g&dib_tag=se&keywords=the+art+of+scalability&qid=1749863537&s=books&sprefix=the+art+of+scalability%2Cstripbooks%2C155&sr=1-1)** - Comprehensive approach to scaling technology, processes, and organizations. The AKF Scale Cube and scaling methodologies.
+- **[Art of Scalability](https://www.amazon.com/Art-Scalability-Architecture-Organizations-Enterprise/dp/0134032802/ref=sr_1_1?crid=10L65QPRYRN3E&dib=eyJ2IjoiMSJ9.WockfrR8Ugztnoeyq3SosKe4j78Y9Bf7WzHDBQyuYz6pgkkc-HJe0ygo37imuDMljXYV2l7S3O3FfFz6e-Vnf0GbreJQTBTrrRQniZFoON-TmY8YugufZF5kdzRp-br6m1DJYKsfdQtuCVUfebvJ3I0mqDFlGBWjO0HvcyD7bWSgkLB964_nphQUckj6isPJdPLaibAuaFW4KguIG1J27u7sxVIrhUfMnGDi0XkitUg.Y3vm7ZrUBk7mszMQpjtHDEkT-lWCVznfKNDrNo6fR_g&dib_tag=se&keywords=the+art+of+scalability&qid=1749863537&s=books&sprefix=the+art+of+scalability%2Cstripbooks%2C155&sr=1-1)** - Comprehensive approach to scaling technology, processes, and organizations. The AKF Scale Cube and scaling methodologies. (SF)
 
 ### Cloud Architecture
 - **[Cloud Architecture Patterns](https://www.amazon.com/Cloud-Architecture-Patterns-Using-Microsoft/dp/1449319777/ref=sr_1_3?crid=1J7MJMW5HJJDG&dib=eyJ2IjoiMSJ9.KBaRJODBo16mGyKnQPpFJOJBMgSI-e1LaMbLCT9nWhraZLHNuqj0UL9K2gKHGvLFCbeetSsFFiQlvDBjYrjbz6uJGvcilUSbEwHT0FcIl5ajpCZJ55zjVWAHltPB_Rw9OEirZPe5QAdhz9x4eRObo7PhLYxckxSoAiPrN7n1UZ4uU3z2iAjeLKDX5uAZVDIpt_KGYuDNdBaR45hcD4g8RHDmNavlZFZlovBiKj901ag.QJL2cRnM2wpNWUPxMx8Evon-Y8faviS-dwEabF_3rgE&dib_tag=se&keywords=Cloud+Architecture+Patterns&qid=1749863772&s=books&sprefix=cloud+architecture+patterns%2Cstripbooks%2C324&sr=1-3)** - Cloud-native design patterns, auto-scaling, distributed computing, and cloud service integration patterns.
@@ -69,7 +69,7 @@
 
 ---
 
-## Phase 4: Expert Level
+## Phase 4: Expert Level (SF/PL)
 
 ### Advanced Architecture Decisions
 - **[Software Architecture: The Hard Parts](https://www.oreilly.com/library/view/software-architecture-the/9781492086888/)** - Advanced architectural decisions, trade-offs, and breaking down monoliths. Covers distributed architecture analysis and decision frameworks.
